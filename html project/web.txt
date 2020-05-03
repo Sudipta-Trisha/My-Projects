@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> Web Page </title>
+	</head>
+		
+	<body>
+		<h1 align="center"> Create Your Own World!</h1>
+		 <p align="center"> <img src="p9.jpeg" height="75" width="75"/></p> 
+		<hr/>
+
+		<p>Some people are often feel fear to share their hobby to anyone just because of the others what will think about him/her.Those people can't expose or utilize their quality at all because of that fear.But they have to understand that our hobbies are so important for us.</p> 
+		<p>Having a hobby that we enjoy brings us joy and enriches our lives.It gives us something fun to do during our leisure time and affords us the opportunity to learn new skills.We are very fortunate to have so many different options out there today. In fact, there are entire websites devoted to hobbies and interests.</p>
+		<p>The best way to cultivate a new hobby is to try something new. The world is full of wonderful ,exciting activites that we can explore and adopt as our own.Of course, all of us are unique and,therefore,our interests and hobbies vary. But once we find a hobby that we truly enjoy and are passionate about,we become hooked.It becomes part of our lives and captivates us in a very personal way.</p>
+
+		<p>Myself Sudipta Banik Trisha. Drawing is one of my favourite past time. Here is some glimpses of my arts.........</p><br/>
+
+		<img src="p1.jpg" height="130" width="200"/>
+		<img src="p2.jpg" height="130" width="200"/>
+		<img src="p3.jpg" height="130" width="200"/>
+		<img src="p4.jpg" height="130" width="200"/>
+		<img src="p5.jpg" height="130" width="200"/>
+		<img src="p6.jpg" height="130" width="200"/>
+		<img src="p7.jpg" height="130" width="200"/>
+		<img src="p8.jpg" height="130" width="200"/>
+
+		<br/> <br/>
+
+		<p>It's a era of art. If anyone want to share your hobby or art or photography or anything your creativity, please fill up this form below and join our community. If you have any query, then contact with me on my facebook.</p>Facebook page link:
+		<a href = "https://www.facebook.com/sudipta.banik.167"> Link </a><br/>
+
+		<h3><u>Sign Up to join with us</u></h3><br/> <br/>
+		<form>
+		<fieldset>
+		<legend> Personal Information </legend>
+			<b>First Name: </b><input type="text" name="textbox1" size="15"><br/><br/>
+			<b>Last Name: </b><input type="text" name="textbox2" size="15"><br/><br/>
+			<b>Gmail: </b><input type="gamil" name="textbox3" size="15"><br/><br/>
+			<b>Password: </b><input type="password" name="pwd" size="15"><br/><br/>
+			<b>Age: </b><input type="text" name="ag" size="08"><br/><br/>
+
+			<b>Interested in </b>
+			<select>
+				<option> Art </option>
+				<option> Photography </option>
+				<option> Cooking </option>
+				<option> Reading </option>
+				<option> Music </option>
+				<option> Dance </option>
+				<option> Others </option>
+			
+			</select>
+			<br/> <br/>
+			<input type="Submit" value="Submit">
+			<input type="reset" value="Reset">
+			
+		 </form>
+		 </fieldset> 
+
+		<p>developed by <font color="Brown" size="4"> &copy; Sudipta Banik Trisha</p><br/>
+	</body>
+
+</html>
