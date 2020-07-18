@@ -1,4 +1,5 @@
 # Encryption - Decryption program using python #
+
 chars = "!.@#%^&*()_'+qwertyuiop}{|][/asdfghjklzxcvbnm?/QWERTYUIOPASDFGHJKLZXCVBNM"
 l = len(chars)
 
@@ -67,5 +68,5 @@ if __name__ == "__main__":
     operation = input()
     done(operation,text,key)
  
-        
+ ### Scripted By Sudipta Banik Trisha ###
     
